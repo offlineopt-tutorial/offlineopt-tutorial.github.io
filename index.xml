@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offline Optimization Tutorial</title>
+    <link>https://offlineopt-tutorial.github.io/</link>
+      <atom:link href="https://offlineopt-tutorial.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Offline Optimization Tutorial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://offlineopt-tutorial.github.io/media/icon_hu69caa5add89c3c28328cc3630a82361a_10876_512x512_fill_lanczos_center_3.png</url>
+      <title>Offline Optimization Tutorial</title>
+      <link>https://offlineopt-tutorial.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://offlineopt-tutorial.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://offlineopt-tutorial.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://offlineopt-tutorial.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://offlineopt-tutorial.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://offlineopt-tutorial.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://offlineopt-tutorial.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://offlineopt-tutorial.github.io/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/syllabus/</guid>
+      <description>&lt;h1 id=&#34;slidesfullslidespdf&#34;&gt;&lt;a href=&#34;fullslides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;h4 id=&#34;first-part-one-hour-45-mins&#34;&gt;First part: one hour 45 mins&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of the BO Framework, GPs, advances in GPs and acquisition functions, and BoTorch demo&lt;/li&gt;
+&lt;li&gt;Bayesian Optimization over Discrete/Hybrid Spaces&lt;/li&gt;
+&lt;li&gt;Multi-fidelity Bayesian Optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;break-30-mins&#34;&gt;Break: 30 Mins&lt;/h4&gt;
+&lt;h4 id=&#34;second-part-one-hour-45-mins&#34;&gt;Second part: one hour 45 mins&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;High-Dimensional BO and BoTorch demo&lt;/li&gt;
+&lt;li&gt;Multi-Objective BO and BoTorch demo&lt;/li&gt;
+&lt;li&gt;Summary and Outstanding Challenges in BO&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>List of references</title>
+      <link>https://offlineopt-tutorial.github.io/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://offlineopt-tutorial.github.io/references/</guid>
+      <description>&lt;h3 id=&#34;general-introduction-and-survey&#34;&gt;General introduction and survey&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Garnett, R. (2022). &lt;em&gt;Bayesian Optimization&lt;/em&gt;. Cambridge University Press. &lt;a href=&#34;https://bayesoptbook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shahriari, B., Swersky, K., Wang, Z., Adams, R. P., &amp;amp; De Freitas, N. (2015). Taking the human out of the loop: A review of Bayesian optimization. &lt;em&gt;Proceedings of the IEEE&lt;/em&gt;, &lt;em&gt;104&lt;/em&gt;(1), 148-175. &lt;a href=&#34;https://ieeexplore.ieee.org/document/7352306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Frazier, P. I. (2018). A tutorial on Bayesian optimization. &lt;em&gt;arXiv preprint arXiv:1807.02811&lt;/em&gt;. &lt;a href=&#34;https://arxiv.org/abs/1807.02811&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Greenhill, S., Rana, S., Gupta, S., Vellanki, P., &amp;amp; Venkatesh, S. (2020). Bayesian optimization for adaptive experimental design: A review. &lt;em&gt;IEEE access&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;, 13937-13948. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8957442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Brochu, E., Cora, V. M., &amp;amp; De Freitas, N. (2010). A tutorial on Bayesian optimization of expensive cost functions, with application to active user modeling and hierarchical reinforcement learning. &lt;em&gt;arXiv preprint arXiv:1012.2599&lt;/em&gt;. &lt;a href=&#34;https://arxiv.org/abs/1012.2599&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gaussian-processes&#34;&gt;Gaussian Processes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Williams, C. K., &amp;amp; Rasmussen, C. E. (2006). &lt;em&gt;Gaussian processes for machine learning&lt;/em&gt; (Vol. 2, No. 3, p. 4). Cambridge, MA: MIT press. &lt;a href=&#34;http://www.gaussianprocess.org/gpml/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leibfried, F., Dutordoir, V., John, S. T., &amp;amp; Durrande, N. (2020). A tutorial on sparse Gaussian processes and variational inference. &lt;em&gt;arXiv preprint arXiv:2012.13962&lt;/em&gt;. &lt;a href=&#34;https://arxiv.org/abs/2012.13962&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acquisition-functions-and-their-optimization&#34;&gt;Acquisition functions and their optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Močkus, J. (1975). On Bayesian methods for seeking the extremum. In &lt;em&gt;Optimization techniques IFIP technical conference&lt;/em&gt; (pp. 400-404). Springer, Berlin, Heidelberg.&lt;/li&gt;
+&lt;li&gt;Srinivas, N., Krause, A., Kakade, S. M., &amp;amp; Seeger, M. (2009). Gaussian process optimization in the bandit setting: No regret and experimental design. &lt;em&gt;arXiv preprint arXiv:0912.3995&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Frazier, P., Powell, W., &amp;amp; Dayanik, S. (2009). The knowledge-gradient policy for correlated normal beliefs. &lt;em&gt;INFORMS journal on Computing&lt;/em&gt;, &lt;em&gt;21&lt;/em&gt;(4), 599-613.&lt;/li&gt;
+&lt;li&gt;Hennig, P., &amp;amp; Schuler, C. J. Entropy search for information-efficient global optimization. Journal of Machine Learning Research (&lt;em&gt;JMLR&lt;/em&gt;), 13, 1809–1837, 2012.&lt;/li&gt;
+&lt;li&gt;Hernandez-Lobato, J. M., Hoffman, M. W., &amp;amp; Ghahramani, Z. Predictive entropy search for efficient global optimization of black-box functions. Advances in Neural Information Processing Systems (&lt;em&gt;NIPS&lt;/em&gt;), pp. 918–926, 2014.&lt;/li&gt;
+&lt;li&gt;Wang, Z., &amp;amp; Jegelka, S. (2017, July). Max-value entropy search for efficient Bayesian optimization. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 3627-3635). PMLR.&lt;/li&gt;
+&lt;li&gt;Jiang, S., Jiang, D., Balandat, M., Karrer, B., Gardner, J., &amp;amp; Garnett, R. (2020). Efficient nonmyopic bayesian optimization via one-shot multi-step trees. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;, 18039-18049.&lt;/li&gt;
+&lt;li&gt;Lam, R., Willcox, K., &amp;amp; Wolpert, D. H. (2016). Bayesian optimization with a finite budget: An approximate dynamic programming approach. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;González, J., Osborne, M., &amp;amp; Lawrence, N. (2016, May). GLASSES: Relieving the myopia of Bayesian optimisation. In &lt;em&gt;Artificial Intelligence and Statistics&lt;/em&gt; (pp. 790-799). PMLR.&lt;/li&gt;
+&lt;li&gt;Balandat, M., Karrer, B., Jiang, D., Daulton, S., Letham, B., Wilson, A. G., &amp;amp; Bakshy, E. (2020). BoTorch: a framework for efficient Monte-Carlo Bayesian optimization. &lt;em&gt;Advances in neural information processing systems&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;, 21524-21538.&lt;/li&gt;
+&lt;li&gt;Kim, J., &amp;amp; Choi, S. (2020, September). On local optimizers of acquisition functions in bayesian optimization. In &lt;em&gt;Joint European Conference on Machine Learning and Knowledge Discovery in Databases&lt;/em&gt; (pp. 675-690). Springer, Cham.&lt;/li&gt;
+&lt;li&gt;Wilson, J., Hutter, F., &amp;amp; Deisenroth, M. (2018). Maximizing acquisition functions for Bayesian optimization. &lt;em&gt;Advances in neural information processing systems&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Grosnit, A., Cowen-Rivers, A. I., Tutunov, R., Griffiths, R. R., Wang, J., &amp;amp; Bou-Ammar, H. (2021). Are we forgetting about compositional optimisers in bayesian optimisation?. Journal of Machine Learning Research, 22(160), 1-78.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;multi-fidelity-bayesian-optimization&#34;&gt;Multi-fidelity Bayesian optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Huang, D., Allen, T. T., Notz, W. I., &amp;amp; Miller, R. A. (2006). Sequential kriging optimization using multiple-fidelity evaluations. &lt;em&gt;Structural and Multidisciplinary Optimization&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(5), 369-382.&lt;/li&gt;
+&lt;li&gt;Swersky, K., Snoek, J., &amp;amp; Adams, R. P. (2013). Multi-task bayesian optimization. &lt;em&gt;Advances in neural information processing systems&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Kandasamy, K., Dasarathy, G., Schneider, J., &amp;amp; Póczos, B. (2017, July). Multi-fidelity bayesian optimisation with continuous approximations. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 1799-1808). PMLR.&lt;/li&gt;
+&lt;li&gt;Klein, A., Falkner, S., Bartels, S., Hennig, P., &amp;amp; Hutter, F. (2017, April). Fast bayesian optimization of machine learning hyperparameters on large datasets. In &lt;em&gt;Artificial intelligence and statistics&lt;/em&gt; (pp. 528-536). PMLR.&lt;/li&gt;
+&lt;li&gt;Song, J., Chen, Y., &amp;amp; Yue, Y. (2019, April). A general framework for multi-fidelity bayesian optimization with gaussian processes. In &lt;em&gt;The 22nd International Conference on Artificial Intelligence and Statistics&lt;/em&gt; (pp. 3158-3167). PMLR.&lt;/li&gt;
+&lt;li&gt;Wu, J., Toscano-Palmerin, S., Frazier, P. I., &amp;amp; Wilson, A. G. (2020, August). Practical multi-fidelity Bayesian optimization for hyperparameter tuning. In &lt;em&gt;Uncertainty in Artificial Intelligence&lt;/em&gt; (pp. 788-798). PMLR.&lt;/li&gt;
+&lt;li&gt;Takeno, S., Fukuoka, H., Tsukada, Y., Koyama, T., Shiga, M., Takeuchi, I., &amp;amp; Karasuyama, M. (2020, November). Multi-fidelity Bayesian optimization with max-value entropy search and its parallelization. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 9334-9345). PMLR.&lt;/li&gt;
+&lt;li&gt;Zhang, Y., Dai, Z., &amp;amp; Low, B. K. H. (2020, August). Bayesian optimization with binary auxiliary information. In &lt;em&gt;Uncertainty in Artificial Intelligence&lt;/em&gt; (pp. 1222-1232). PMLR.&lt;/li&gt;
+&lt;li&gt;Li, S., Xing, W., Kirby, R., &amp;amp; Zhe, S. (2020). Multi-fidelity Bayesian optimization via deep neural networks. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;, 8521-8531.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;combinatorial-bayesian-optimization&#34;&gt;Combinatorial Bayesian optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deshwal, A., Belakaria, S., Doppa, J. R., &amp;amp; Fern, A. (2020). Optimizing discrete spaces via expensive evaluations: A learning to search framework. In &lt;em&gt;Proceedings of the AAAI Conference on Artificial Intelligence&lt;/em&gt; (Vol. 34, No. 04, pp. 3773-3780).&lt;/li&gt;
+&lt;li&gt;Deshwal, A., Belakaria, S., &amp;amp; Doppa, J. R. (2021). Mercer features for efficient combinatorial Bayesian optimization. In &lt;em&gt;Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI)&lt;/em&gt; (pp. 7210-7218).&lt;/li&gt;
+&lt;li&gt;Deshwal, A., &amp;amp; Doppa, J. (2021). Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Deshwal, A., Belakaria, S., &amp;amp; Doppa, J. R. (2020). Scalable combinatorial Bayesian optimization with tractable statistical models. &lt;em&gt;arXiv preprint arXiv:2008.08177&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Baptista, R., &amp;amp; Poloczek, M. (2018, July). Bayesian optimization of combinatorial structures. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 462-471). PMLR.&lt;/li&gt;
+&lt;li&gt;Garrido-Merchán, E. C., &amp;amp; Hernández-Lobato, D. (2020). Dealing with categorical and integer-valued variables in bayesian optimization with gaussian processes. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;380&lt;/em&gt;, 20-35.&lt;/li&gt;
+&lt;li&gt;Oh, C., Tomczak, J., Gavves, E., &amp;amp; Welling, M. (2019). Combinatorial bayesian optimization using the graph cartesian product. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Swersky, K., Rubanova, Y., Dohan, D., &amp;amp; Murphy, K. (2020). Amortized bayesian optimization over discrete spaces. In &lt;em&gt;Conference on Uncertainty in Artificial Intelligence&lt;/em&gt; (pp. 769-778). PMLR.&lt;/li&gt;
+&lt;li&gt;Moss, H., Leslie, D., Beck, D., Gonzalez, J., &amp;amp; Rayson, P. (2020). Boss: Bayesian optimization over string spaces. &lt;em&gt;Advances in neural information processing systems&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;, 15476-15486.&lt;/li&gt;
+&lt;li&gt;Buathong, P., Ginsbourger, D., &amp;amp; Krityakierne, T. (2020). Kernels over sets of finite sets using RKHS embeddings, with application to Bayesian (combinatorial) optimization. In &lt;em&gt;International Conference on Artificial Intelligence and Statistics&lt;/em&gt; (pp. 2731-2741). PMLR.&lt;/li&gt;
+&lt;li&gt;Dadkhahi, H., Shanmugam, K., Rios, J., Das, P., Hoffman, S. C., Loeffler, T. D., &amp;amp; Sankaranarayanan, S. (2020, August). Combinatorial black-box optimization with expert advice. In &lt;em&gt;Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp;amp; Data Mining&lt;/em&gt; (pp. 1918-1927).&lt;/li&gt;
+&lt;li&gt;Kim, J., McCourt, M., You, T., Kim, S., &amp;amp; Choi, S. (2021). Bayesian optimization with approximate set kernels. &lt;em&gt;Machine Learning&lt;/em&gt;, &lt;em&gt;110&lt;/em&gt;(5), 857-879.&lt;/li&gt;
+&lt;li&gt;Griffiths, R. R., &amp;amp; Hernández-Lobato, J. M. (2020). Constrained Bayesian optimization for automatic chemical design using variational autoencoders. Chemical science, 11(2), 577-586.&lt;/li&gt;
+&lt;li&gt;Maus, N., Jones, H. T., Moore, J. S., Kusner, M. J., Bradshaw, J., &amp;amp; Gardner, J. R. (2022). Local Latent Space Bayesian Optimization over Structured Inputs, Neural Information Processing Systems (NeurIPS) 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;causal-bayesian-optimization&#34;&gt;Causal Bayesian Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aglietti V., Dhir N., González J. and Damoulas T. (2021). Dynamic Causal Bayesian Optimization, Neural Information Processing Systems (NeurIPS) 2021.&lt;/li&gt;
+&lt;li&gt;Aglietti V., Damoulas T., Alvarez A.M., &amp;amp; González J. (2020). Multi-task Causal Learning with Gaussian Processes, Neural Information Processing Systems (NeurIPS) 2020.&lt;/li&gt;
+&lt;li&gt;Aglietti V., Lu X., Paleyes A., &amp;amp; González J. (2020). Causal Bayesian Optimization, International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.&lt;/li&gt;
+&lt;li&gt;Aglietti V., Bonilla E., Damoulas T. &amp;amp; Cripps S. (2019). Structured Variational Inference in Continuous Cox Process Models, Neural Information Processing Systems (NeurIPS) 2019.&lt;/li&gt;
+&lt;li&gt;Aglietti V., Damoulas T. &amp;amp; Bonilla E. (2019). Efficient Inference in Multi-task Cox Process Models, International Conference on Artificial Intelligence and Statistics (AISTATS) 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bo-over-hybrid-spaces&#34;&gt;BO over hybrid spaces&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deshwal, A., Belakaria, S., &amp;amp; Doppa, J. R. (2021). Bayesian optimization over hybrid spaces. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 2632-2643). PMLR.&lt;/li&gt;
+&lt;li&gt;Daxberger, E., Makarova, A., Turchetta, M., &amp;amp; Krause, A. (2019). Mixed-variable bayesian optimization. &lt;em&gt;arXiv preprint arXiv:1907.01329&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Oh, C., Gavves, E., &amp;amp; Welling, M. (2021). Mixed variable Bayesian optimization with frequency modulated kernels. In &lt;em&gt;Uncertainty in Artificial Intelligence&lt;/em&gt; (pp. 950-960). PMLR.&lt;/li&gt;
+&lt;li&gt;Ru, B., Alvi, A., Nguyen, V., Osborne, M. A., &amp;amp; Roberts, S. (2020, November). Bayesian optimisation over multiple continuous and categorical inputs. In International Conference on Machine Learning (pp. 8276-8285). PMLR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;high-dimensional-bayesian-optimization&#34;&gt;High-dimensional Bayesian optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Eriksson, D., Pearce, M., Gardner, J., Turner, R. D., &amp;amp; Poloczek, M. (2019). Scalable global optimization via local bayesian optimization. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Li, C., Gupta, S., Rana, S., Nguyen, V., Venkatesh, S., &amp;amp; Shilton, A. (2017). High Dimensional Bayesian Optimization Using Dropout. &lt;em&gt;Proceedings of the 26th International Joint Conference on Artificial Intelligence&lt;/em&gt;, 2096–2102. Melbourne, Australia: AAAI Press.&lt;/li&gt;
+&lt;li&gt;Mutny, M., &amp;amp; Krause, A. (2018). Efficient high dimensional bayesian optimization with additivity and quadrature fourier features. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Wang, Z., Gehring, C., Kohli, P., &amp;amp; Jegelka, S. (2018, March). Batched large-scale Bayesian optimization in high-dimensional spaces. In &lt;em&gt;International Conference on Artificial Intelligence and Statistics&lt;/em&gt; (pp. 745-754). PMLR.&lt;/li&gt;
+&lt;li&gt;Oh, C., Gavves, E., &amp;amp; Welling, M. (2018, July). BOCK: Bayesian optimization with cylindrical kernels. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 3868-3877). PMLR.&lt;/li&gt;
+&lt;li&gt;Rolland, P., Scarlett, J., Bogunovic, I., &amp;amp; Cevher, V. (2018, March). High-dimensional Bayesian optimization via additive models with overlapping groups. In &lt;em&gt;International conference on artificial intelligence and statistics&lt;/em&gt; (pp. 298-307). PMLR.&lt;/li&gt;
+&lt;li&gt;Li, C. L., Kandasamy, K., Póczos, B., &amp;amp; Schneider, J. (2016, May). High dimensional Bayesian optimization via restricted projection pursuit models. In &lt;em&gt;Artificial Intelligence and Statistics&lt;/em&gt; (pp. 884-892). PMLR.&lt;/li&gt;
+&lt;li&gt;Zhang, M., Li, H., &amp;amp; Su, S. (2019). High dimensional Bayesian optimization via supervised dimension reduction. &lt;em&gt;arXiv preprint arXiv:1907.08953&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Hoang, T. N., Hoang, Q. M., Ouyang, R., &amp;amp; Low, K. H. (2018, April). Decentralized high-dimensional Bayesian optimization with factor graphs. In &lt;em&gt;Proceedings of the AAAI Conference on Artificial Intelligence&lt;/em&gt; (Vol. 32, No. 1).&lt;/li&gt;
+&lt;li&gt;Maddox, W. J., Balandat, M., Wilson, A. G., &amp;amp; Bakshy, E. (2021). Bayesian optimization with high-dimensional outputs. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Wan, X., Nguyen, V., Ha, H., Ru, B., Lu, C., &amp;amp; Osborne, M. A. (2021). Think global and act local: Bayesian optimisation over high-dimensional categorical and mixed search spaces. &lt;em&gt;arXiv preprint arXiv:2102.07188&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Eriksson, D., &amp;amp; Jankowiak, M. (2021). High-dimensional Bayesian optimization with sparse axis-aligned subspaces. In Uncertainty in Artificial Intelligence (pp. 493-503). PMLR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;batch-bayesian-optimization&#34;&gt;Batch Bayesian Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Wu, J., &amp;amp; Frazier, P. (2016). The parallel knowledge gradient method for batch Bayesian optimization. &lt;em&gt;Advances in neural information processing systems&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Ginsbourger, D., Riche, R. L., &amp;amp; Carraro, L. (2010). Kriging is well-suited to parallelize optimization. In &lt;em&gt;Computational intelligence in expensive optimization problems&lt;/em&gt; (pp. 131-162). Springer, Berlin, Heidelberg.&lt;/li&gt;
+&lt;li&gt;González, J., Dai, Z., Hennig, P., &amp;amp; Lawrence, N. (2016, May). Batch Bayesian optimization via local penalization. In &lt;em&gt;Artificial intelligence and statistics&lt;/em&gt; (pp. 648-657). PMLR.&lt;/li&gt;
+&lt;li&gt;Nguyen, V., Rana, S., Gupta, S. K., Li, C., &amp;amp; Venkatesh, S. (2016, December). Budgeted batch Bayesian optimization. In &lt;em&gt;2016 IEEE 16th International Conference on Data Mining (ICDM)&lt;/em&gt; (pp. 1107-1112). IEEE.&lt;/li&gt;
+&lt;li&gt;Wang, Z., Hutter, F., Zoghi, M., Matheson, D., &amp;amp; de Feitas, N. (2016). Bayesian optimization in a billion dimensions via random embeddings. &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;, 361-387.&lt;/li&gt;
+&lt;li&gt;Azimi, J., Fern, A., &amp;amp; Fern, X. (2010). Batch bayesian optimization via simulation matching. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Azimi, J., Jalali, A., &amp;amp; Fern, X. (2012). Hybrid batch Bayesian optimization. &lt;em&gt;arXiv preprint arXiv:1202.5597&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Gong, C., Peng, J., &amp;amp; Liu, Q. (2019, May). Quantile stein variational gradient descent for batch Bayesian optimization. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 2347-2356). PMLR.&lt;/li&gt;
+&lt;li&gt;Kandasamy, K., Krishnamurthy, A., Schneider, J., &amp;amp; Póczos, B. (2018, March). Parallelised Bayesian optimisation via Thompson sampling. In &lt;em&gt;International Conference on Artificial Intelligence and Statistics&lt;/em&gt; (pp. 133-142). PMLR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;constrained-bayesian-optimization&#34;&gt;Constrained Bayesian Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Gardner, J. R., Kusner, M. J., Xu, Z. E., Weinberger, K. Q., &amp;amp; Cunningham, J. P. (2014, June). Bayesian Optimization with Inequality Constraints. In ICML (Vol. 2014, pp. 937-945).&lt;/li&gt;
+&lt;li&gt;Gelbart, Michael A., Jasper Snoek, and Ryan P. Adams. “Bayesian optimization with unknown constraints.” arXiv preprint arXiv:1403.5607 (2014).&lt;/li&gt;
+&lt;li&gt;Hernández-Lobato, José Miguel, et al. “Predictive entropy search for bayesian optimization with unknown constraints.” International conference on machine learning. PMLR, 2015.&lt;/li&gt;
+&lt;li&gt;Perrone, Valerio, et al. “Constrained Bayesian optimization with max-value entropy search.” arXiv preprint arXiv:1910.07003 (2019).&lt;/li&gt;
+&lt;li&gt;Letham, Benjamin, et al. “Constrained Bayesian optimization with noisy experiments.” Bayesian Analysis 14.2 (2019): 495-519.&lt;/li&gt;
+&lt;li&gt;Eriksson, David, and Matthias Poloczek. “Scalable constrained bayesian optimization.” International Conference on Artificial Intelligence and Statistics. PMLR, 2021.&lt;/li&gt;
+&lt;li&gt;Chen, Wenjie, Shengcai Liu, and Ke Tang. “A new knowledge gradient-based method for constrained bayesian optimization.” arXiv preprint arXiv:2101.08743 (2021).&lt;/li&gt;
+&lt;li&gt;Takeno, S., Tamura, T., Shitara, K., &amp;amp; Karasuyama, M. (2021). Sequential-and Parallel-Constrained Max-value Entropy Search via Information Lower Bound. arXiv preprint arXiv:2102.09788.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;multi-objective-bayesian-optimization&#34;&gt;Multi-Objective Bayesian Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Belakaria, S., Deshwal, A., &amp;amp; Doppa, J. R. “Max-value entropy search for multi-objective bayesian optimization.” Advances in neural information processing systems 32 (2019).&lt;/li&gt;
+&lt;li&gt;Belakaria, S., Deshwal, A., Jayakodi, N. K., &amp;amp; Doppa, J. R. (2020, April). Uncertainty-aware search framework for multi-objective Bayesian optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 06, pp. 10044-10052).&lt;/li&gt;
+&lt;li&gt;Belakaria, S., Deshwal, A., &amp;amp; Doppa, J. R. (2020, April). Multi-fidelity multi-objective Bayesian optimization: An output space entropy search approach. In Proceedings of the AAAI Conference on artificial intelligence (Vol. 34, No. 06, pp. 10035-10043).&lt;/li&gt;
+&lt;li&gt;Belakaria, S., Deshwal, A., &amp;amp; Doppa, J. R. (2021). Output space entropy search framework for multi-objective bayesian optimization. Journal of Artificial Intelligence Research, 72, 667-715.&lt;/li&gt;
+&lt;li&gt;Knowles, J. (2006). ParEGO: A hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems. IEEE Transactions on Evolutionary Computation, 10(1), 50-66.&lt;/li&gt;
+&lt;li&gt;Emmerich, M., &amp;amp; Klinkenberg, J. W. (2008). The computation of the expected improvement in dominated hypervolume of Pareto front approximations. Rapport technique, Leiden University, 34, 7-3.&lt;/li&gt;
+&lt;li&gt;Zuluaga, M., Sergent, G., Krause, A., &amp;amp; Püschel, M. (2013, February). Active learning for multi-objective optimization. In International Conference on Machine Learning (pp. 462-470). PMLR.&lt;/li&gt;
+&lt;li&gt;Picheny, V. (2015). Multiobjective optimization using Gaussian process emulators via stepwise uncertainty reduction. Statistics and Computing, 25(6), 1265-1280.&lt;/li&gt;
+&lt;li&gt;Hernández-Lobato, D., Hernandez-Lobato, J., Shah, A., &amp;amp; Adams, R. (2016, June). Predictive entropy search for multi-objective bayesian optimization. In International conference on machine learning (pp. 1492-1501). PMLR.&lt;/li&gt;
+&lt;li&gt;Shah, A., &amp;amp; Ghahramani, Z. (2016, June). Pareto frontier learning with expensive correlated objectives. In International conference on machine learning (pp. 1919-1927). PMLR.&lt;/li&gt;
+&lt;li&gt;Paria, B., Kandasamy, K., &amp;amp; Póczos, B. (2020, August). A flexible framework for multi-objective bayesian optimization using random scalarizations. In Uncertainty in Artificial Intelligence (pp. 766-776). PMLR.&lt;/li&gt;
+&lt;li&gt;Zhang, R., Golovin, D.. (2020). Random Hypervolume Scalarizations for Provable Multi-Objective Black Box Optimization. Proceedings of the 37th International Conference on Machine Learning, PMLR&lt;/li&gt;
+&lt;li&gt;Daulton, S., Balandat, M., &amp;amp; Bakshy, E. (2020). Differentiable expected hypervolume improvement for parallel multi-objective Bayesian optimization. Advances in Neural Information Processing Systems, 33, 9851-9864.&lt;/li&gt;
+&lt;li&gt;Suzuki, S., Takeno, S., Tamura, T., Shitara, K., &amp;amp; Karasuyama, M. (2020, November). Multi-objective Bayesian optimization using Pareto-frontier entropy. In International Conference on Machine Learning (pp. 9279-9288). PMLR.&lt;/li&gt;
+&lt;li&gt;Konakovic Lukovic, M., Tian, Y., &amp;amp; Matusik, W. (2020). Diversity-guided multi-objective bayesian optimization with batch evaluations. Advances in Neural Information Processing Systems, 33, 17708-17720.&lt;/li&gt;
+&lt;li&gt;Daulton, S., Balandat, M., &amp;amp; Bakshy, E. (2021). Parallel Bayesian Optimization of Multiple Noisy Objectives with Expected Hypervolume Improvement. Advances in Neural Information Processing Systems, 34.&lt;/li&gt;
+&lt;li&gt;Garrido-Merchán, Eduardo C., and Daniel Hernández-Lobato. “Predictive entropy search for multi-objective bayesian optimization with constraints.” Neurocomputing 361 (2019): 50-68.&lt;/li&gt;
+&lt;li&gt;Fernández-Sánchez, D., Garrido-Merchán, E. C., &amp;amp; Hernández-Lobato, D. (2020). Improved Max-value Entropy Search for Multi-objective Bayesian Optimization with Constraints. arXiv preprint arXiv:2011.01150.&lt;/li&gt;
+&lt;li&gt;Chowdhury, S. R., &amp;amp; Gopalan, A. (2021, March). No-regret algorithms for multi-task bayesian optimization. In International Conference on Artificial Intelligence and Statistics (pp. 1873-1881). PMLR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bo-over-conditionaltree-structured-search-space&#34;&gt;BO over conditional/tree-structured search space&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jenatton, R., Archambeau, C., González, J., &amp;amp; Seeger, M. (2017, July). Bayesian optimization with tree-structured dependencies. In &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (pp. 1655-1664). PMLR.&lt;/li&gt;
+&lt;li&gt;Swersky, K., Duvenaud, D., Snoek, J., Hutter, F., &amp;amp; Osborne, M. A. (2014). Raiders of the lost architecture: Kernels for Bayesian optimization in conditional parameter spaces. &lt;em&gt;arXiv preprint arXiv:1409.4011&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Ma, X., &amp;amp; Blaschko, M. (2020, June). Additive tree-structured covariance function for conditional parameter spaces in Bayesian optimization. In International Conference on Artificial Intelligence and Statistics (pp. 1015-1025). PMLR.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
